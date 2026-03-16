@@ -1,4 +1,4 @@
-# wenshushu-uploader - 文叔叔文件上传技能
+# 文叔叔文件上传 (wenshushu-file-uploader)
 
 **版本**: 1.0.0  
 **作者**: OpenClaw  
@@ -9,7 +9,7 @@
 
 ## 📋 技能简介
 
-wenshushu-uploader 是一个 OpenClaw 技能，提供快速、便捷的文件上传到文叔叔（wenshushu.cn）的功能。支持自动生成分享链接、取件码，并可通过 QQ 对话直接发送给用户。
+wenshushu-file-uploader 是一个 OpenClaw 技能，提供快速、便捷的文件上传到文叔叔（wenshushu.cn）的功能。支持自动生成分享链接、取件码，并可通过 QQ 对话直接发送给用户。
 
 **核心价值**:
 - 🚀 命令行一键上传，无需打开浏览器
@@ -90,7 +90,7 @@ AI: 📤 正在上传: hertzbeat-architecture-analysis.md
 ### 方式二：命令行直接调用
 ```bash
 # 基本上传（随机取件码）
-python3 skills/wenshushu-uploader/scripts/upload.py /path/to/file
+python3 skills/wenshushu-file-uploader/scripts/upload.py /path/to/file
 
 # 自定义取件码
 python3 skills/wenshushu-uploader/scripts/upload.py /path/to/file 1234

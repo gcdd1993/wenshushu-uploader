@@ -3,7 +3,7 @@
 
 set -e
 
-echo "🚀 开始安装 wenshushu-uploader 技能..."
+echo "🚀 开始安装 wenshushu-file-uploader 技能..."
 
 # 检查 Python
 if ! command -v python3 &> /dev/null; then

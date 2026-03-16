@@ -1,5 +1,5 @@
 ---
-name: wenshushu-uploader
+name: wenshushu-file-uploader
 description: 文叔叔文件上传技能，自动上传文件到文叔叔并生成分享链接和取件码
 ---
 
