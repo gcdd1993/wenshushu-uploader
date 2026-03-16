@@ -1,0 +1,11 @@
+{
+  "name": "wenshushu-uploader",
+  "version": "1.0.0",
+  "description": "文叔叔文件上传技能，自动上传文件并生成分享链接",
+  "author": "OpenClaw",
+  "license": "MIT",
+  "dependencies": {
+    "browser": "^1.0.0"
+  },
+  "keywords": ["file", "upload", "wenshushu", "share"]
+}
